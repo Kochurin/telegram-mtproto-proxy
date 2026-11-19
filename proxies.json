@@ -1,5 +1,5 @@
 {
- "updated": "19.11.2026 19:28 UTC",
+ "updated": "19.11.2026 19:38 UTC",
  "proxies": [
   {
    "server": "vinyga35.quillmarsh.xyz",
@@ -92,12 +92,6 @@
    "link": "https://t.me/proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
   },
   {
-   "server": "4x4.subaru-volga.com",
-   "port": 443,
-   "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
-   "link": "https://t.me/proxy?server=4x4.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c"
-  },
-  {
    "server": "lynette.myrka.digital",
    "port": 443,
    "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
@@ -180,6 +174,12 @@
    "port": 8443,
    "secret": "ee39b02b17154fb63d766692b4c025153e706574726f766963682e7275",
    "link": "https://t.me/proxy?server=nemi55.tidelark.cc&port=8443&secret=ee39b02b17154fb63d766692b4c025153e706574726f766963682e7275"
+  },
+  {
+   "server": "legama44.foxglade.xyz",
+   "port": 8443,
+   "secret": "ee7bc938d2ac049d95a4b912fe8d187ebb786170692e6f7a6f6e2e7275",
+   "link": "https://t.me/proxy?server=legama44.foxglade.xyz&port=8443&secret=ee7bc938d2ac049d95a4b912fe8d187ebb786170692e6f7a6f6e2e7275"
   }
  ]
 }
