@@ -1,0 +1,73 @@
+<a href="https://t.me/mtpproxytg"><img src="banner.png" alt="Бесплатные MTProto-прокси для Telegram"></a>
+
+<p align="center">
+  <a href="https://t.me/mtpproxytg"><b>Канал с прокси</b></a> &nbsp;|&nbsp;
+  <a href="proxies.txt"><b>proxies.txt</b></a> &nbsp;|&nbsp;
+  <a href="proxies.json"><b>proxies.json</b></a> &nbsp;|&nbsp;
+  <a href="https://t.me/SkyrimVPN_bot?start=gitproxy"><b>VPN</b></a>
+</p>
+
+Бесплатные MTProto-прокси для Telegram. Список обновляется сам каждый час: скрипт берёт свежие прокси из канала [@mtpproxytg](https://t.me/mtpproxytg) и оставляет только те, что отвечают
+
+*Free MTProto proxies for Telegram, updated hourly*
+
+## Как подключить
+
+1. Нажмите «Подключить» у любого прокси в таблице
+2. Откроется Telegram, нажмите «Подключить прокси»
+3. Если прокси перестал работать, возьмите следующий или загляните в [канал](https://t.me/mtpproxytg), там новые выходят каждый час
+
+Прокси ускоряет только Telegram. Чтобы открывались YouTube, Instagram и сайты на мобильном интернете с белыми списками, нужен VPN: [@SkyrimVPN_bot](https://t.me/SkyrimVPN_bot?start=gitproxy), первые 3 дня бесплатно
+
+## Список
+
+<!-- PROXIES:START -->
+Обновлено: **19.11.2026 19:28 UTC** · живых прокси: **30**
+
+| # | Сервер | Порт | Подключить |
+|---|---|---|---|
+| 1 | `vinyga35.quillmarsh.xyz` | 8443 | [Подключить](https://t.me/proxy?server=vinyga35.quillmarsh.xyz&port=8443&secret=ee66209693c31923590235bff3baec4bc164726976652e676f6f676c652e636f6d) |
+| 2 | `rimi88.fernlark.xyz` | 8443 | [Подключить](https://t.me/proxy?server=rimi88.fernlark.xyz&port=8443&secret=ee3e175e0503b04fc22a65e6b6b60d5d9c64726976652e676f6f676c652e636f6d) |
+| 3 | `pode92.copperwren.click` | 8443 | [Подключить](https://t.me/proxy?server=pode92.copperwren.click&port=8443&secret=ee24a2e186d77b8425efef1848ed59cbd064726976652e676f6f676c652e636f6d) |
+| 4 | `deto22.larchmere.xyz` | 8443 | [Подключить](https://t.me/proxy?server=deto22.larchmere.xyz&port=8443&secret=ee2be8580b0f53c5573a76901f897c686f64726976652e676f6f676c652e636f6d) |
+| 5 | `nega49.mosswren.vip` | 8443 | [Подключить](https://t.me/proxy?server=nega49.mosswren.vip&port=8443&secret=ee8052a5757cc12faa6dc818a508165565786170692e6f7a6f6e2e7275) |
+| 6 | `tomasu22.fernlark.xyz` | 8443 | [Подключить](https://t.me/proxy?server=tomasu22.fernlark.xyz&port=8443&secret=eee279647020eebfa18cc77b516b7bfd85786170692e6f7a6f6e2e7275) |
+| 7 | `lonezo26.saltfern.xyz` | 8443 | [Подключить](https://t.me/proxy?server=lonezo26.saltfern.xyz&port=8443&secret=eeec569fca8169b57457c573b55bbaa8ec706574726f766963682e7275) |
+| 8 | `ririny44.tidelark.cc` | 8443 | [Подключить](https://t.me/proxy?server=ririny44.tidelark.cc&port=8443&secret=ee908a3490ac6759588ba515fac7ff5099706574726f766963682e7275) |
+| 9 | `lene98.mossharbor.xyz` | 8443 | [Подключить](https://t.me/proxy?server=lene98.mossharbor.xyz&port=8443&secret=eeee11eba813b57526bbb2594bae8959e7786170692e6f7a6f6e2e7275) |
+| 10 | `mt3.leeroy.uz` | 443 | [Подключить](https://t.me/proxy?server=mt3.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275) |
+| 11 | `mt1.leeroy.uz` | 443 | [Подключить](https://t.me/proxy?server=mt1.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275) |
+| 12 | `proxy.nizya.club` | 443 | [Подключить](https://t.me/proxy?server=proxy.nizya.club&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d670726f78792e6e697a79612e636c7562) |
+| 13 | `neka92.larchmere.xyz` | 8443 | [Подключить](https://t.me/proxy?server=neka92.larchmere.xyz&port=8443&secret=eeb26dd44a039e6125d490c0aeaa262559786170692e6f7a6f6e2e7275) |
+| 14 | `t4.myrka.digital` | 443 | [Подключить](https://t.me/proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c) |
+| 15 | `kima.rabotaet.online` | 443 | [Подключить](https://t.me/proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65) |
+| 16 | `4x4.subaru-volga.com` | 443 | [Подключить](https://t.me/proxy?server=4x4.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c) |
+| 17 | `lynette.myrka.digital` | 443 | [Подключить](https://t.me/proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c) |
+| 18 | `ganemi87.tidelark.cc` | 8443 | [Подключить](https://t.me/proxy?server=ganemi87.tidelark.cc&port=8443&secret=eedc3799b42ede3b50888183dcda40d67064726976652e676f6f676c652e636f6d) |
+| 19 | `viny39.mosswren.vip` | 8443 | [Подключить](https://t.me/proxy?server=viny39.mosswren.vip&port=8443&secret=eebe679b4dc0e994889bb8293fc71ba1a8786170692e6f7a6f6e2e7275) |
+| 20 | `delene17.saltfern.xyz` | 8443 | [Подключить](https://t.me/proxy?server=delene17.saltfern.xyz&port=8443&secret=ee79bb85ccf314a2ae99d362e84ed3104a64726976652e676f6f676c652e636f6d) |
+| 21 | `deri80.quillmarsh.xyz` | 8443 | [Подключить](https://t.me/proxy?server=deri80.quillmarsh.xyz&port=8443&secret=ee6ea1d0dba312024f5fa8eed472cb99d4706574726f766963682e7275) |
+| 22 | `nema94.foxglade.xyz` | 8443 | [Подключить](https://t.me/proxy?server=nema94.foxglade.xyz&port=8443&secret=eea44b781cdf4cc1eb82c52c854e48e674706574726f766963682e7275) |
+| 23 | `nykale37.birchquay.xyz` | 8443 | [Подключить](https://t.me/proxy?server=nykale37.birchquay.xyz&port=8443&secret=ee1ea09cb7dacde768c6c7d9ae03d05b63706574726f766963682e7275) |
+| 24 | `gaga93.copperwren.click` | 8443 | [Подключить](https://t.me/proxy?server=gaga93.copperwren.click&port=8443&secret=eeb5b747703e5e5ce6bf2c234105f89c7964726976652e676f6f676c652e636f6d) |
+| 25 | `static.antenna-mzt.live` | 443 | [Подключить](https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d) |
+| 26 | `premierastar.mtproxy.me` | 443 | [Подключить](https://t.me/proxy?server=premierastar.mtproxy.me&port=443&secret=ee616cf892574b078aab3f73e63b8b7df4786170692e6f7a6f6e2e7275) |
+| 27 | `lomi89.mossharbor.xyz` | 8443 | [Подключить](https://t.me/proxy?server=lomi89.mossharbor.xyz&port=8443&secret=ee82d6829fbd02ca3261c2d2c349db064e706574726f766963682e7275) |
+| 28 | `rasura11.tidalbirch.sbs` | 8443 | [Подключить](https://t.me/proxy?server=rasura11.tidalbirch.sbs&port=8443&secret=ee05271d0b222457576f0dc08514db733a786170692e6f7a6f6e2e7275) |
+| 29 | `zodesu33.saltfern.xyz` | 8443 | [Подключить](https://t.me/proxy?server=zodesu33.saltfern.xyz&port=8443&secret=ee90466c3a2e42ab9e12adcd4a032972e8706574726f766963682e7275) |
+| 30 | `nemi55.tidelark.cc` | 8443 | [Подключить](https://t.me/proxy?server=nemi55.tidelark.cc&port=8443&secret=ee39b02b17154fb63d766692b4c025153e706574726f766963682e7275) |
+<!-- PROXIES:END -->
+
+## Для разработчиков
+
+- `proxies.txt` — по одной ссылке `https://t.me/proxy?...` на строку
+- `proxies.json` — сервер, порт, секрет и ссылка
+- `update.py` — сборщик без зависимостей, Python 3.9+. Запускается из `.github/workflows/update.yml`
+
+Проверка «живой» означает только, что порт открыт с сервера GitHub. Из вашей сети прокси может вести себя иначе
+
+## Ссылки
+
+- Прокси каждый час: [@mtpproxytg](https://t.me/mtpproxytg)
+- VPN, который работает на мобильном интернете с белыми списками: [@SkyrimVPN_bot](https://t.me/SkyrimVPN_bot?start=gitproxy) · [сайт](https://skyrim.connecto.lol/?utm_source=gitproxy)
+- Как быть с белыми списками на мобильном: [гайд](https://github.com/Kochurin/whitelist-guide)
