@@ -1,6 +1,18 @@
 {
- "updated": "20.11.2026 09:59 UTC",
+ "updated": "20.11.2026 18:36 UTC",
  "proxies": [
+  {
+   "server": "rasura11.tidalbirch.sbs",
+   "port": 8443,
+   "secret": "ee05271d0b222457576f0dc08514db733a786170692e6f7a6f6e2e7275",
+   "link": "https://t.me/proxy?server=rasura11.tidalbirch.sbs&port=8443&secret=ee05271d0b222457576f0dc08514db733a786170692e6f7a6f6e2e7275"
+  },
+  {
+   "server": "zodesu33.saltfern.xyz",
+   "port": 8443,
+   "secret": "ee90466c3a2e42ab9e12adcd4a032972e8706574726f766963682e7275",
+   "link": "https://t.me/proxy?server=zodesu33.saltfern.xyz&port=8443&secret=ee90466c3a2e42ab9e12adcd4a032972e8706574726f766963682e7275"
+  },
   {
    "server": "nemi55.tidelark.cc",
    "port": 8443,
@@ -104,12 +116,6 @@
    "link": "https://t.me/proxy?server=kima.rabotaet.online&port=443&secret=ee12e7e5f961f258b04af168a1cba6318a6b696d612e7261626f746165742e6f6e6c696e65"
   },
   {
-   "server": "lynette.myrka.digital",
-   "port": 443,
-   "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
-   "link": "https://t.me/proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c"
-  },
-  {
    "server": "ganemi87.tidelark.cc",
    "port": 8443,
    "secret": "eedc3799b42ede3b50888183dcda40d67064726976652e676f6f676c652e636f6d",
@@ -170,16 +176,10 @@
    "link": "https://t.me/proxy?server=lomi89.mossharbor.xyz&port=8443&secret=ee82d6829fbd02ca3261c2d2c349db064e706574726f766963682e7275"
   },
   {
-   "server": "rasura11.tidalbirch.sbs",
-   "port": 8443,
-   "secret": "ee05271d0b222457576f0dc08514db733a786170692e6f7a6f6e2e7275",
-   "link": "https://t.me/proxy?server=rasura11.tidalbirch.sbs&port=8443&secret=ee05271d0b222457576f0dc08514db733a786170692e6f7a6f6e2e7275"
-  },
-  {
-   "server": "zodesu33.saltfern.xyz",
-   "port": 8443,
-   "secret": "ee90466c3a2e42ab9e12adcd4a032972e8706574726f766963682e7275",
-   "link": "https://t.me/proxy?server=zodesu33.saltfern.xyz&port=8443&secret=ee90466c3a2e42ab9e12adcd4a032972e8706574726f766963682e7275"
+   "server": "awd.subaru-volga.com",
+   "port": 443,
+   "secret": "ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+   "link": "https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c"
   }
  ]
 }
