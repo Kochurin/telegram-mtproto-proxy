@@ -1,5 +1,5 @@
 {
- "updated": "20.11.2026 01:46 UTC",
+ "updated": "20.11.2026 09:59 UTC",
  "proxies": [
   {
    "server": "nemi55.tidelark.cc",
@@ -72,6 +72,12 @@
    "port": 443,
    "secret": "eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
    "link": "https://t.me/proxy?server=mt3.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275"
+  },
+  {
+   "server": "proxy.nizya.club",
+   "port": 443,
+   "secret": "ee05cf8e164f926f4a664b2404d276a1d670726f78792e6e697a79612e636c7562",
+   "link": "https://t.me/proxy?server=proxy.nizya.club&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d670726f78792e6e697a79612e636c7562"
   },
   {
    "server": "surf.suslik-cloud.com",
@@ -174,12 +180,6 @@
    "port": 8443,
    "secret": "ee90466c3a2e42ab9e12adcd4a032972e8706574726f766963682e7275",
    "link": "https://t.me/proxy?server=zodesu33.saltfern.xyz&port=8443&secret=ee90466c3a2e42ab9e12adcd4a032972e8706574726f766963682e7275"
-  },
-  {
-   "server": "mt1.leeroy.uz",
-   "port": 443,
-   "secret": "eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
-   "link": "https://t.me/proxy?server=mt1.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275"
   }
  ]
 }
